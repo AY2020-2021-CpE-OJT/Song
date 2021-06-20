@@ -3,8 +3,7 @@
 using namespace std;
 
 int main(){
-    cout<<"Hello world!";
-    cout<<"changed after the first commit";
+    cout<<"Time to Rollback";
 
     return 0;
 }
